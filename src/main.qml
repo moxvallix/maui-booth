@@ -10,7 +10,7 @@ import QtQuick.Layouts 1.3
 import QtMultimedia 5.14
 
 import org.kde.kirigami 2.7 as Kirigami
-import org.maui.mauikit 1.2 as Maui
+import org.mauikit 1.2 as Maui
 
 import "widgets"
 import "views/roll"

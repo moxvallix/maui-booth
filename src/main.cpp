@@ -32,7 +32,7 @@
 #include "3rdparty/mauikit/src/mauikit.h"
 #include "mauiapp.h"
 #else
-#include <MauiKit/mauiapp.h>
+#include <MauiKit/Core/mauiapp.h>
 #endif
 
 #if defined Q_OS_MACOS || defined Q_OS_WIN
